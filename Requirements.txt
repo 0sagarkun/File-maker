@@ -1,4 +1,0 @@
-python-telegram-bot==22.3
-Pillow==10.4.0
-fpdf2==2.8.2
-pyzipper==0.3.6
